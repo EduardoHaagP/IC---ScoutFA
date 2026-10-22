@@ -1,0 +1,11 @@
+nflreadpy
+pandas
+polars
+pyarrow
+numpy
+scikit-learn
+matplotlib
+seaborn
+fg-data-profiling
+setuptools<81
+kagglehub
